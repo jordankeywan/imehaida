@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://locheithi.pbontemps.com/sitemap.xml
